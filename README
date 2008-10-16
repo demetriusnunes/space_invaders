@@ -1,0 +1,6 @@
+This is a very simple and incomplete implementation of a Space Invaders clone implemented in Ruby using the [1] Gosu game development toolkit.
+
+The graphics for the game were downloaded from the [2] "Head First C#", Lab #3 page.
+
+[1] http://code.google.com/p/gosu/
+[2] http://headfirstlabs.com/books/hfcsharp/lab03.php
